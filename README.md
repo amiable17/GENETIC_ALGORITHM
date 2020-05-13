@@ -19,3 +19,6 @@
 
 ### 순서도
 ![image](gen4.png)
+
+### 참고 사이트
+* https://towardsdatascience.com/genetic-algorithm-implementation-in-python-5ab67bb124a6
